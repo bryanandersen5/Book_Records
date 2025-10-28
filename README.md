@@ -39,7 +39,6 @@
 - Add **timestamp logging** for each record update  
 - Refactor into **multiple source/header files** for modularity  
 - Expand to support **multiple fields** (e.g., email, address) per contact  
-- Optional: Build a **GUI version** using Qt or integrate with a web front-end
 
 ---
 
