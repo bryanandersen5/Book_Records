@@ -44,13 +44,16 @@
 
 ### 📁 `File Overview`
 ```
-📦 BryanAndersen_Portfolio_1/
- ┣ 📄 BryanAndersen_Portfolio_1.cpp
- ┣ 📄 BryanAndersen_Portfolio_1.vcxproj
- ┣ 📄 BryanAndersen_Portfolio_1.vcxproj.filters
- ┣ 📄 BryanAndersen_Portfolio_1.vcxproj.user (ignored)
- ┣ 📄 phone_book.txt
- ┗ 📄 README.md
-📄 BryanAndersen_Portfolio_1.sln
-📄 .gitignore
+📦 Seat_Reservation/
+ ┣ 📄 BryanAndersen_Portfolio_1.sln
+ ┣ 📄 .gitignore
+ ┣ 📁 .vs/ (ignored)
+ ┣ 📁 x64/ (ignored)
+ ┗ 📁 BryanAndersen_Portfolio_1/
+   ┣ 📄 BryanAndersen_Portfolio_1.cpp
+   ┣ 📄 BryanAndersen_Portfolio_1.vcxproj
+   ┣ 📄 BryanAndersen_Portfolio_1.vcxproj.filters
+   ┣ 📄 BryanAndersen_Portfolio_1.vcxproj.user (ignored)
+   ┣ 📄 phone_book.txt
+   ┗ 📄 README.md
 ```
