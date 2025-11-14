@@ -1,6 +1,6 @@
 ## ☎️ `Phone Book Management System`
 
-![Language](https://img.shields.io/badge/C++-Project-blue?style=for-the-badge&logo=c%2B%2B)
+![Language](https://img.shields.io/badge/Project-C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Console%20App-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-OOP%20%26%20File%20Handling-orange?style=for-the-badge)
